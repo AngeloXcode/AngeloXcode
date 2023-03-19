@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AngeloXcode
+- 👋 Hi, I’m Angelo E.Saber
 - 👀 I’m interested in Swift,SwiftUI and Objective c
-- 🌱 I’m currently learning SwiftUI and Node JS
+- 🌱 I'm currently Professional in SwiftUI
 - 📫 How to reach me be email : eng.angloesam2010@gmail.com - linkedin : https://www.linkedin.com/in/angelo-saber-69233040/
 
 
